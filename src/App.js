@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Change this text here to see if hot module reload is working.
+          This check is mostly for bind mounts issues from windows docker engine.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
